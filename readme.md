@@ -22,7 +22,7 @@ A responsive and visually appealing **blog layout** built using **Bootstrap 5 CD
 
 ## 📂 Project Structure
 
-my-bootstrap-blog/
+my-bootstrap-blog
 ├── index.html
 ├── style.css
 └── script.js
