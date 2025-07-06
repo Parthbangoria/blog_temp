@@ -6,7 +6,7 @@ A responsive and visually appealing **blog layout** built using **Bootstrap 5 CD
 
 ## 🚀 Preview
 
-👉 [Image Preview](/img.png)
+👉 ![Image Preview](/img.png)
 
 ---
 
